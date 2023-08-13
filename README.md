@@ -9,7 +9,7 @@ Welcome to the face recognition project! This project is designed to help you bu
 To get started with this project, please make sure you have the following:
 
 A computer with a webcam. A Python environment with the necessary dependencies installed.
-Libraries used: numpy, cvzone, face_recognition, os, pickle, cv2, firebase_admin, etc
+Libraries used: cmake, dlib, cvzone, cvzone, face_recognition, os, pickle, cv2, firebase_admin, etc
 Recommended: default venue to create a new environment for this project. Once you have the necessary requirements, you can begin by following these steps:
 
 Clone the project repository from Github. 
